@@ -1,0 +1,4 @@
+.idea
+/tmp/*
+!/tmp/.keep
+!/tmp/copy_pdfmake.min.js
